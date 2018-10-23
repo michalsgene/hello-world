@@ -1,2 +1,2 @@
 # hello-world
-New ti Git
+New to Git
